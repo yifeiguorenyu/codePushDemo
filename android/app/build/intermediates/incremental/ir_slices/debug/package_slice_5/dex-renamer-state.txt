@@ -1,0 +1,4 @@
+#Wed Jan 09 14:35:34 CST 2019
+base.0=/Users/yifei/Desktop/react-native-pro/demo/codePushDemo/android/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex

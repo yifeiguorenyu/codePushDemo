@@ -1,0 +1,26 @@
+{
+  "name": "codePushDemo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest",
+    "productionKey":"919IF85Nf1OhiZyIDA71Omiu3YE98b915a85-7902-475b-9cbe-f5e9301d7285",
+    "statingKey":"4uw4ipWoJUqDxxRS_PPYoKwbwYMn8b915a85-7902-475b-9cbe-f5e9301d7285",
+    "codePushy":"code-push release-react codePushDemo"
+  },
+  "dependencies": {
+    "react": "16.6.3",
+    "react-native": "0.57.8",
+    "react-native-code-push": "^5.5.1"
+  },
+  "devDependencies": {
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
